@@ -1,2 +1,2 @@
-Reaper200/chatbotforagriculture 
-A chat gpt based model
+https://huggingface.co/spaces/sun-noodles/CUBS_Bot_Demo
+
